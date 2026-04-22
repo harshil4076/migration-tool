@@ -1,0 +1,13 @@
+{
+  "wordpress": {
+    "url": "http://localhost:8881",
+    "username": "admin",
+    "password": "YOUR_APPLICATION_PASSWORD_HERE"
+  },
+  "llm": {
+    "provider": "anthropic",
+    "api_key": "YOUR_API_KEY_HERE",
+    "model": "claude-sonnet-4-20250514"
+  },
+  "output_dir": "./output"
+}
